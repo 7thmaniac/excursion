@@ -29,3 +29,12 @@ h1, .header--main{
     color:aquamarine;
     font-size: 16px;
 }
+
+/* Copyright */
+
+.footer--copyright{
+    color: grey;
+    font-size: 12px;
+    margin-top: 50px;
+    text-align: right;
+}
